@@ -1,0 +1,23 @@
+PODS:
+  - CryptoSwift (1.4.2)
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - CryptoSwift
+  - Flutter (from `Flutter`)
+
+SPEC REPOS:
+  trunk:
+    - CryptoSwift
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  CryptoSwift: a532e74ed010f8c95f611d00b8bbae42e9fe7c17
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+
+PODFILE CHECKSUM: 3f5955ef3e4fbc77d22cc6742477cb3ed683ecbd
+
+COCOAPODS: 1.11.2
